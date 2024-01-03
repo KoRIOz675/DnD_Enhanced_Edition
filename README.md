@@ -7,10 +7,17 @@ You will find in the repository books with new content and modified content for 
 
 I will updates the books on the repository when there is enough new content for it.
 
+> UP => Up to date
+> IP => In progress (newest version will be upload soon)
+
 **Current Status on upgrades :**
-- [V1 Up-to-date] D&DEE Player's Add-On
-- [V1 In-upgrade] D&DEE Monster Companion
-- [V1 In-upgrade] D&DEE Spellbook
+- [UP] D&DEE Player's Add-On
+- [IP] D&DEE Monster Companion
+- [IP] D&DEE Spellbook
+
+## Contact
+
+If you want to contact me for anything related to the project / those documements, feel free to mail me : [thomas.mafille00@gmail.com](thomas.mafille00@gmail.com)
 
 ## Credits / Properties
 
