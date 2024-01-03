@@ -2,7 +2,6 @@
 
 You will find in the repository books with new content and modified content for the game [Dungeons & Dragons 5e](https://dnd.wizards.com).
 ㅤ
-ㅤ
 
 ## Updates
 
@@ -17,7 +16,6 @@ I will updates the books on the repository when there is enough new content for 
 | D&DEE Monster Companion | IP |
 | D&DEE Spellbook | IP |
 
-ㅤ
 ㅤ
 
 ## Contact
