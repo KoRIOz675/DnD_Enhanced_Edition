@@ -18,16 +18,16 @@ I will updates the books on the repository when there is enough new content for 
 
 ㅤ
 
-## Contact
-
-If you want to contact me for anything related to the project / those documements, feel free to mail me : thomas.mafille00@gmail.com.
-
-ㅤ
-
 ## Art
 
 I do not own the rights for the images used in the book. Those images are property of their creators and owners.
 I respect the property and talent of the artists, so all images used in this book is theoretically an hand-made one. If you detect an AI-made image, please tell me so I can change it.
+
+ㅤ
+
+## Contact
+
+If you want to contact me for anything related to the project / those documements, feel free to mail me : thomas.mafille00@gmail.com.
 
 ㅤ
 
