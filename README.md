@@ -16,6 +16,7 @@ I will updates the books on the repository when there is enough new content for 
 | D&DEE Player's Add-On | UP |
 | D&DEE Monster Companion | IP |
 | D&DEE Spellbook | IP |
+
 ㅤ
 ㅤ
 
@@ -24,7 +25,7 @@ I will updates the books on the repository when there is enough new content for 
 If you want to contact me for anything related to the project / those documements, feel free to mail me : [thomas.mafille00@gmail.com](thomas.mafille00@gmail.com)
 ㅤ
 ㅤ
-
+ㅤ
 ## Credits / Properties
 
 > [!NOTE]
