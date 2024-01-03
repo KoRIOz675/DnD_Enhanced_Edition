@@ -7,14 +7,14 @@ You will find in the repository books with new content and modified content for 
 
 I will updates the books on the repository when there is enough new content for it.
 
-> UP => Up to date  //  IP => In progress (newest version will be upload soon)
+> UP => Up to date (final update for the current version)  //  IP => In progress (newest version will be upload soon)
 
 **Current Status on upgrades :**
-| Book | Status |
-| :--- | :---: |
-| D&DEE Player's Add-On | UP |
-| D&DEE Monster Companion | IP |
-| D&DEE Spellbook | IP |
+| Book | Status | Current Version |
+| :--- | :---: | :--: |
+| D&DEE Player's Add-On | UP | v1 |
+| D&DEE Monster Companion | IP | v0 |
+| D&DEE Spellbook | IP | v0 |
 
 ㅤ
 
