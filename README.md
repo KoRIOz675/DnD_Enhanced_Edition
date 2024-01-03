@@ -13,7 +13,7 @@ I will updates the books on the repository when there is enough new content for 
 **Current Status on upgrades :**
 | Book | Status | Current Version |
 | :--- | :---: | :--: |
-| D&DEE Player's Add-On | UP | v1 |
+| D&DEE Player's Add-On | IP | v1 |
 | D&DEE Monster Companion | IP | v0 |
 | D&DEE Spellbook | IP | v0 |
 
