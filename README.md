@@ -21,8 +21,8 @@ I will updates the books on the repository when there is enough new content for 
 
 ## Art
 
-I do not own the rights for the images used in the book. Those images are property of their creators and owners.
-I respect the property and talent of the artists, so all images used in this book is theoretically an hand-made one. If you detect an AI-made image, please tell me so I can change it.
+I do not own the rights for the images used in the books. Those images are property of their creators and owners.
+I respect the property and talent of the artists, so all images used in the books is theoretically an hand-made one. If you detect an AI-made image, please tell me so I can remove it.
 
 ㅤ
 
@@ -36,4 +36,5 @@ If you want to contact me for anything related to the project / those documement
 
 > [!NOTE]
 > All the books in this repository are fan-made created by KoRIOz675.
-> Every copy is own by KoRIOz675  and must not be distribute without the authorization of the owner.
+> Every copy is own by KoRIOz675 and must not be distribute without the authorization of the owner.
+> [Dungeon And Dragon](https://dnd.wizards.com) is the property of [Wizard of the Coast](https://company.wizards.com/) (WotC). I do not own the right of the name or anything related to WotC.
