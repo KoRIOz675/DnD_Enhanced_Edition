@@ -15,15 +15,15 @@ I will updates the books on the repository when there is enough new content for 
 
 > UP => Up to date (final update for the current version)  //  IP => In progress (newest version will be upload soon)
 
-### Test
-**Current Status on upgrades :**
+
+### **Current Status on upgrades :**
 | Book | Status | Current Version |
 | :--- | :---: | :--: |
 | D&DEE Monster Companion | IP | v1 |
 | D&DEE Player's Add-On | UP | v1 |
 | D&DEE Spellbook | IP | v1 |
 
-**Latest update :**
+### **Latest update :**
 - Added some monster in the [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf)
 - Finalize the [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf)
 
