@@ -1,7 +1,8 @@
 # D&D Enhanced Edition
 
 <img src="https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE.png" alt="Logo_D&DEE" width="200"/>
-You will find in the repository books with new content and modified content for the game [Dungeons & Dragons 5e](https://dnd.wizards.com).
+ㅤ
+You will find in the repository books with new content and modified content for the game Dungeons & Dragons 5e.
 ㅤ
 
 ## Updates
