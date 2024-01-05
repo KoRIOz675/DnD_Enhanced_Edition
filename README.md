@@ -2,8 +2,8 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Images/D%26DEE_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./Images/D%26DEE_light.png.png">
-    <img src="./Images/D%26DEE_dark.png#gh-dark-mode-only" alt="Logo_D&DEE" width="200"/>
+    <source media="(prefers-color-scheme: light)" srcset="./Images/D%26DEE_light.png">
+    <img src="./Images/D%26DEE_dark.png" alt="Logo_D&DEE" width="300"/>
 </picture>
 
 You will find in the repository books with new content and modified content for the game Dungeons & Dragons 5e.
