@@ -20,7 +20,7 @@ I will updates the books on the repository when there is enough new content for 
 ### **Current Status on upgrades :**
 | Book | Status | Current Version |
 | :--- | :---: | :--: |
-| [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf) | IP | v0.5 |
+| [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf) | UP | v1 |
 | [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf) | UP | v1.1 |
 | [D&DEE Spellbook](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Spellbook.pdf) | IP | v0.5 |
 
