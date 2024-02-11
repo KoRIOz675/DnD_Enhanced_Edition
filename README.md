@@ -7,6 +7,7 @@
 </picture>
 
 You will find in the repository books with new content and modified content for the game Dungeons & Dragons 5e.
+
 ㅤ
 
 ## Updates
@@ -19,13 +20,9 @@ I will updates the books on the repository when there is enough new content for 
 ### **Current Status on upgrades :**
 | Book | Status | Current Version |
 | :--- | :---: | :--: |
-| D&DEE Monster Companion | IP | v1 |
-| D&DEE Player's Add-On | UP | v1 |
-| D&DEE Spellbook | IP | v1 |
-
-### **Latest update :**
-- Added some monster in the [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf)
-- Finalize the [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf)
+| [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf) | IP | v0.5 |
+| [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf) | UP | v1.1 |
+| [D&DEE Spellbook](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Spellbook.pdf) | IP | v0.5 |
 
 ㅤ
 
