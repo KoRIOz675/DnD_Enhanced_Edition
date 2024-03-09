@@ -23,6 +23,8 @@ I will updates the books on the repository when there is enough new content for 
 | [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf) | UP | v1 |
 | [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf) | UP | v1.1 |
 | [D&DEE Spellbook](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Spellbook.pdf) | IP | v0.5 |
+| [A Spellbook of Light and Darkness](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/A%20Spellbook%20of%20Light%20and%20Darkness.pdf) | IP | v0.1 |
+
 
 ㅤ
 
