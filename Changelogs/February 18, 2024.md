@@ -14,5 +14,5 @@
 -  -->
 
 ## A Spellbook of Light and Darkness
-**Update to version 0.2**
+**Update to version 0.1**
 - Creation
