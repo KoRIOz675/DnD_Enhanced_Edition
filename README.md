@@ -22,11 +22,11 @@ I will updates the books on the repository when there is enough new content for 
 ### **Current Status on upgrades :**
 | Book | Status | Current Version |
 | :--- | :---: | :--: |
-| [A Spellbook of Light and Darkness](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/A%20Spellbook%20of%20Light%20and%20Darkness.pdf) | IP | v0.2 |
+| [A Spellbook of Light and Darkness](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/Additional%20content/A%20Spellbook%20of%20Light%20and%20Darkness.pdf) | IP | v0.2 |
 | [D&DEE Monster Companion](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20%20-%20Monster%20Companion.pdf) | UP | v1.0 |
 | [D&DEE Player's Add-On](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Player's%20Add-On.pdf) | UP | v1.2 |
 | [D&DEE Spellbook](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/D%26DEE%20-%20Spellbook.pdf) | IP | v0.5 |
-| [Drinking Age for DnD](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/Drinking%20Age%20for%20DnD.pdf) | UP | v1.0 |
+| [Drinking Age for DnD](https://github.com/KoRIOz675/DnD_Enhanced_Edition/blob/main/Additional%20content/Drinking%20Age%20for%20DnD.pdf) | UP | v1.0 |
 
 
 ㅤ
